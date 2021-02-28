@@ -8,6 +8,6 @@ Project Title: Detection of Fake Job Postings with Natural Language Processing
 
 
 ## Technical Skills
-- Performed exploratory analysis on fraudulent job postings and obtained statistical data for the dataset.
-- Cleaned dataset via lemmatization, feature generation, vectorization, and data augmentation.
-- Built and trained 4 machine learning models (Naïve Bayes, Support Vector Machine (SVM), Random Forest Classifier, Neural Network - Tensorflow Keras).
+- Performed exploratory analysis on fraudulent job postings and obtained statistical data for the dataset. [Part 1]
+- Cleaned dataset via lemmatization, feature generation, vectorization, and data augmentation. [Part 2,3]
+- Built and trained 4 machine learning models (Naïve Bayes, Support Vector Machine (SVM), Random Forest Classifier, Neural Network - Tensorflow Keras). [Part 3]
